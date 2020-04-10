@@ -73,11 +73,11 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.vb">
+    <Compile Include="Menu Utama.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="Menu Utama.Designer.vb">
+      <DependentUpon>Menu Utama.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form_Bujur-Sangkar.Designer.vb">
@@ -127,8 +127,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <EmbeddedResource Include="Menu Utama.resx">
+      <DependentUpon>Menu Utama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Persegi_Panjang.resx">
+      <DependentUpon>Form_Persegi_Panjang.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Form_Segitiga.resx">
       <DependentUpon>Form_Segitiga.vb</DependentUpon>

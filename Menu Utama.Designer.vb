@@ -96,7 +96,7 @@ Partial Class form1
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Name = "form1"
-        Me.Text = "Form1"
+        Me.Text = "Menu Utama"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 

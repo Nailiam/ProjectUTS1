@@ -10,3 +10,16 @@ C:\Users\ASUS\Documents\GitHub\ProjectUTS1\obj\Debug\ProjectUTS1.vbproj.Generate
 C:\Users\ASUS\Documents\GitHub\ProjectUTS1\obj\Debug\ProjectUTS1.exe
 C:\Users\ASUS\Documents\GitHub\ProjectUTS1\obj\Debug\ProjectUTS1.xml
 C:\Users\ASUS\Documents\GitHub\ProjectUTS1\obj\Debug\ProjectUTS1.pdb
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\bin\Debug\ProjectUTS1.exe.config
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\bin\Debug\ProjectUTS1.exe
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\bin\Debug\ProjectUTS1.pdb
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\bin\Debug\ProjectUTS1.xml
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.vbprojAssemblyReference.cache
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.form1.resources
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.Form_Persegi_Panjang.resources
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.Form_Segitiga.resources
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.Resources.resources
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.vbproj.GenerateResource.cache
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.exe
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.xml
+C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.pdb
