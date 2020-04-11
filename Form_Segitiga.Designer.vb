@@ -29,8 +29,8 @@ Partial Class Form_Segitiga
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
-        Me.Bil = New System.Windows.Forms.TextBox()
-        Me.Besar = New System.Windows.Forms.TextBox()
+        Me.Alas = New System.Windows.Forms.TextBox()
+        Me.Tinggi = New System.Windows.Forms.TextBox()
         Me.Luas = New System.Windows.Forms.TextBox()
         Me.Keliling = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
@@ -98,19 +98,19 @@ Partial Class Form_Segitiga
         Me.Button2.Text = "Hitung Keliling"
         Me.Button2.UseVisualStyleBackColor = True
         '
-        'Bil
+        'Alas
         '
-        Me.Bil.Location = New System.Drawing.Point(203, 97)
-        Me.Bil.Name = "Bil"
-        Me.Bil.Size = New System.Drawing.Size(123, 20)
-        Me.Bil.TabIndex = 7
+        Me.Alas.Location = New System.Drawing.Point(203, 97)
+        Me.Alas.Name = "Alas"
+        Me.Alas.Size = New System.Drawing.Size(123, 20)
+        Me.Alas.TabIndex = 7
         '
-        'Besar
+        'Tinggi
         '
-        Me.Besar.Location = New System.Drawing.Point(203, 134)
-        Me.Besar.Name = "Besar"
-        Me.Besar.Size = New System.Drawing.Size(123, 20)
-        Me.Besar.TabIndex = 8
+        Me.Tinggi.Location = New System.Drawing.Point(203, 134)
+        Me.Tinggi.Name = "Tinggi"
+        Me.Tinggi.Size = New System.Drawing.Size(123, 20)
+        Me.Tinggi.TabIndex = 8
         '
         'Luas
         '
@@ -133,8 +133,8 @@ Partial Class Form_Segitiga
         Me.ClientSize = New System.Drawing.Size(472, 323)
         Me.Controls.Add(Me.Keliling)
         Me.Controls.Add(Me.Luas)
-        Me.Controls.Add(Me.Besar)
-        Me.Controls.Add(Me.Bil)
+        Me.Controls.Add(Me.Tinggi)
+        Me.Controls.Add(Me.Alas)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label5)
@@ -156,8 +156,8 @@ Partial Class Form_Segitiga
     Friend WithEvents Label5 As Label
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
-    Friend WithEvents Bil As TextBox
-    Friend WithEvents Besar As TextBox
+    Friend WithEvents Alas As TextBox
+    Friend WithEvents Tinggi As TextBox
     Friend WithEvents Luas As TextBox
     Friend WithEvents Keliling As TextBox
 End Class
