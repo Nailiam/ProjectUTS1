@@ -139,6 +139,9 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Form_Bujur-Sangkar.resx">
+      <DependentUpon>Form_Bujur-Sangkar.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Form_Jajargenjang.resx">
       <DependentUpon>Form_Jajargenjang.vb</DependentUpon>
     </EmbeddedResource>
