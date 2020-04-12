@@ -41,7 +41,7 @@ Partial Class Form_segitiga_siku_siku
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(128, 21)
+        Me.Label1.Location = New System.Drawing.Point(88, 22)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(132, 20)
         Me.Label1.TabIndex = 0
@@ -94,7 +94,7 @@ Partial Class Form_segitiga_siku_siku
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(63, 263)
+        Me.Button1.Location = New System.Drawing.Point(41, 263)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(96, 30)
         Me.Button1.TabIndex = 6
@@ -103,7 +103,7 @@ Partial Class Form_segitiga_siku_siku
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(213, 263)
+        Me.Button2.Location = New System.Drawing.Point(183, 263)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(96, 30)
         Me.Button2.TabIndex = 7
@@ -112,7 +112,7 @@ Partial Class Form_segitiga_siku_siku
         '
         'Alas
         '
-        Me.Alas.Location = New System.Drawing.Point(132, 58)
+        Me.Alas.Location = New System.Drawing.Point(132, 62)
         Me.Alas.Name = "Alas"
         Me.Alas.Size = New System.Drawing.Size(104, 20)
         Me.Alas.TabIndex = 8
@@ -149,7 +149,7 @@ Partial Class Form_segitiga_siku_siku
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(380, 321)
+        Me.ClientSize = New System.Drawing.Size(300, 321)
         Me.Controls.Add(Me.Keliling)
         Me.Controls.Add(Me.Luas)
         Me.Controls.Add(Me.Sisimiring)
