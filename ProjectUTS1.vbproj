@@ -73,6 +73,18 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Form_segitiga_sembarang.Designer.vb">
+      <DependentUpon>Form_segitiga_sembarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_segitiga_sembarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_segitiga_siku-siku.Designer.vb">
+      <DependentUpon>Form_segitiga_siku-siku.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form_segitiga_siku-siku.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Menu Utama.vb">
       <SubType>Form</SubType>
     </Compile>
@@ -127,6 +139,18 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EmbeddedResource Include="Form_Jajargenjang.resx">
+      <DependentUpon>Form_Jajargenjang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Lingkaran.resx">
+      <DependentUpon>Form_Lingkaran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_segitiga_sembarang.resx">
+      <DependentUpon>Form_segitiga_sembarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_segitiga_siku-siku.resx">
+      <DependentUpon>Form_segitiga_siku-siku.vb</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Menu Utama.resx">
       <DependentUpon>Menu Utama.vb</DependentUpon>
     </EmbeddedResource>
