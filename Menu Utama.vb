@@ -24,4 +24,5 @@
     Private Sub Button5_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button5.Click
         Form_Jajargenjang.Show()
     End Sub
+
 End Class

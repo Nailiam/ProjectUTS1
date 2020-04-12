@@ -7,6 +7,7 @@
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
         Keliling.Text = ""
         Keliling.Text = Val(Alas.Text) + Val(Alas.Text) + Val(Alas.Text)
+
     End Sub
 
     Private Sub Button3_Click(sender As Object, e As EventArgs) Handles Button3.Click
