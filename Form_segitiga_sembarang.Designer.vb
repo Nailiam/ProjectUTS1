@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form_Segitiga
+Partial Class Form_segitiga_sembarang
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -29,37 +29,37 @@ Partial Class Form_Segitiga
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Button1 = New System.Windows.Forms.Button()
         Me.Button2 = New System.Windows.Forms.Button()
-        Me.Alas = New System.Windows.Forms.TextBox()
-        Me.Tinggi = New System.Windows.Forms.TextBox()
+        Me.alas = New System.Windows.Forms.TextBox()
+        Me.tinggi = New System.Windows.Forms.TextBox()
+        Me.a = New System.Windows.Forms.TextBox()
+        Me.b = New System.Windows.Forms.TextBox()
         Me.Luas = New System.Windows.Forms.TextBox()
-        Me.Keliling = New System.Windows.Forms.TextBox()
-        Me.Button3 = New System.Windows.Forms.Button()
-        Me.Button4 = New System.Windows.Forms.Button()
+        Me.keliling = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
         '
         'Label1
         '
         Me.Label1.AutoSize = True
         Me.Label1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Label1.Location = New System.Drawing.Point(168, 9)
+        Me.Label1.Location = New System.Drawing.Point(115, 9)
         Me.Label1.Name = "Label1"
-        Me.Label1.Size = New System.Drawing.Size(136, 20)
+        Me.Label1.Size = New System.Drawing.Size(151, 20)
         Me.Label1.TabIndex = 0
-        Me.Label1.Text = "Segitiga sama sisi"
+        Me.Label1.Text = "Segitiga sembarang"
         '
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(95, 53)
+        Me.Label2.Location = New System.Drawing.Point(67, 52)
         Me.Label2.Name = "Label2"
-        Me.Label2.Size = New System.Drawing.Size(27, 13)
+        Me.Label2.Size = New System.Drawing.Size(42, 13)
         Me.Label2.TabIndex = 1
-        Me.Label2.Text = "Alas"
+        Me.Label2.Text = "Alas (c)"
         '
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(95, 88)
+        Me.Label3.Location = New System.Drawing.Point(67, 85)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(36, 13)
         Me.Label3.TabIndex = 2
@@ -68,96 +68,92 @@ Partial Class Form_Segitiga
         'Label4
         '
         Me.Label4.AutoSize = True
-        Me.Label4.Location = New System.Drawing.Point(95, 123)
+        Me.Label4.Location = New System.Drawing.Point(67, 123)
         Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(30, 13)
+        Me.Label4.Size = New System.Drawing.Size(55, 13)
         Me.Label4.TabIndex = 3
-        Me.Label4.Text = "Luas"
+        Me.Label4.Text = "Panjang a"
         '
         'Label5
         '
         Me.Label5.AutoSize = True
-        Me.Label5.Location = New System.Drawing.Point(95, 159)
+        Me.Label5.Location = New System.Drawing.Point(67, 159)
         Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(40, 13)
+        Me.Label5.Size = New System.Drawing.Size(55, 13)
         Me.Label5.TabIndex = 4
-        Me.Label5.Text = "Keliling"
+        Me.Label5.Text = "Panjang b"
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(98, 202)
+        Me.Button1.Location = New System.Drawing.Point(45, 200)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(94, 23)
+        Me.Button1.Size = New System.Drawing.Size(98, 25)
         Me.Button1.TabIndex = 5
         Me.Button1.Text = "Hitung Luas"
         Me.Button1.UseVisualStyleBackColor = True
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(240, 202)
+        Me.Button2.Location = New System.Drawing.Point(45, 247)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(107, 23)
+        Me.Button2.Size = New System.Drawing.Size(99, 25)
         Me.Button2.TabIndex = 6
         Me.Button2.Text = "Hitung Keliling"
         Me.Button2.UseVisualStyleBackColor = True
         '
-        'Alas
+        'alas
         '
-        Me.Alas.Location = New System.Drawing.Point(203, 46)
-        Me.Alas.Name = "Alas"
-        Me.Alas.Size = New System.Drawing.Size(123, 20)
-        Me.Alas.TabIndex = 7
+        Me.alas.Location = New System.Drawing.Point(143, 45)
+        Me.alas.Name = "alas"
+        Me.alas.Size = New System.Drawing.Size(96, 20)
+        Me.alas.TabIndex = 7
         '
-        'Tinggi
+        'tinggi
         '
-        Me.Tinggi.Location = New System.Drawing.Point(203, 81)
-        Me.Tinggi.Name = "Tinggi"
-        Me.Tinggi.Size = New System.Drawing.Size(123, 20)
-        Me.Tinggi.TabIndex = 8
+        Me.tinggi.Location = New System.Drawing.Point(143, 78)
+        Me.tinggi.Name = "tinggi"
+        Me.tinggi.Size = New System.Drawing.Size(96, 20)
+        Me.tinggi.TabIndex = 8
+        '
+        'a
+        '
+        Me.a.Location = New System.Drawing.Point(143, 116)
+        Me.a.Name = "a"
+        Me.a.Size = New System.Drawing.Size(96, 20)
+        Me.a.TabIndex = 9
+        '
+        'b
+        '
+        Me.b.Location = New System.Drawing.Point(143, 152)
+        Me.b.Name = "b"
+        Me.b.Size = New System.Drawing.Size(96, 20)
+        Me.b.TabIndex = 10
         '
         'Luas
         '
-        Me.Luas.Location = New System.Drawing.Point(203, 116)
+        Me.Luas.Location = New System.Drawing.Point(160, 203)
         Me.Luas.Name = "Luas"
-        Me.Luas.Size = New System.Drawing.Size(123, 20)
-        Me.Luas.TabIndex = 9
+        Me.Luas.Size = New System.Drawing.Size(106, 20)
+        Me.Luas.TabIndex = 11
         '
-        'Keliling
+        'keliling
         '
-        Me.Keliling.Location = New System.Drawing.Point(203, 152)
-        Me.Keliling.Name = "Keliling"
-        Me.Keliling.Size = New System.Drawing.Size(123, 20)
-        Me.Keliling.TabIndex = 10
+        Me.keliling.Location = New System.Drawing.Point(160, 250)
+        Me.keliling.Name = "keliling"
+        Me.keliling.Size = New System.Drawing.Size(106, 20)
+        Me.keliling.TabIndex = 12
         '
-        'Button3
-        '
-        Me.Button3.Location = New System.Drawing.Point(47, 264)
-        Me.Button3.Name = "Button3"
-        Me.Button3.Size = New System.Drawing.Size(171, 28)
-        Me.Button3.TabIndex = 11
-        Me.Button3.Text = "Buka form segitiga sembarang"
-        Me.Button3.UseVisualStyleBackColor = True
-        '
-        'Button4
-        '
-        Me.Button4.Location = New System.Drawing.Point(267, 264)
-        Me.Button4.Name = "Button4"
-        Me.Button4.Size = New System.Drawing.Size(154, 28)
-        Me.Button4.TabIndex = 12
-        Me.Button4.Text = "Buka form segitiga siku-siku"
-        Me.Button4.UseVisualStyleBackColor = True
-        '
-        'Form_Segitiga
+        'Form_segitiga_sembarang
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(472, 323)
-        Me.Controls.Add(Me.Button4)
-        Me.Controls.Add(Me.Button3)
-        Me.Controls.Add(Me.Keliling)
+        Me.ClientSize = New System.Drawing.Size(366, 310)
+        Me.Controls.Add(Me.keliling)
         Me.Controls.Add(Me.Luas)
-        Me.Controls.Add(Me.Tinggi)
-        Me.Controls.Add(Me.Alas)
+        Me.Controls.Add(Me.b)
+        Me.Controls.Add(Me.a)
+        Me.Controls.Add(Me.tinggi)
+        Me.Controls.Add(Me.alas)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Label5)
@@ -165,8 +161,8 @@ Partial Class Form_Segitiga
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.Label2)
         Me.Controls.Add(Me.Label1)
-        Me.Name = "Form_Segitiga"
-        Me.Text = "Form_Segitiga"
+        Me.Name = "Form_segitiga_sembarang"
+        Me.Text = "Form_segitiga_sembarang"
         Me.ResumeLayout(False)
         Me.PerformLayout()
 
@@ -179,10 +175,10 @@ Partial Class Form_Segitiga
     Friend WithEvents Label5 As Label
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
-    Friend WithEvents Alas As TextBox
-    Friend WithEvents Tinggi As TextBox
+    Friend WithEvents alas As TextBox
+    Friend WithEvents tinggi As TextBox
+    Friend WithEvents a As TextBox
+    Friend WithEvents b As TextBox
     Friend WithEvents Luas As TextBox
-    Friend WithEvents Keliling As TextBox
-    Friend WithEvents Button3 As Button
-    Friend WithEvents Button4 As Button
+    Friend WithEvents keliling As TextBox
 End Class

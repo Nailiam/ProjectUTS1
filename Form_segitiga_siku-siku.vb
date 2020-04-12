@@ -1,11 +1,11 @@
-﻿Public Class Form_Jajargenjang
+﻿Public Class Form_segitiga_siku_siku
     Private Sub Button1_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button1.Click
-        hasilk.Text = ""
-        hasilk.Text = 2 * (Val(a.Text) + Val(b.Text))
+        Luas.Text = ""
+        Luas.Text = 1 / 2 * Val(Alas.Text) * Val(Tinggi.Text)
     End Sub
 
     Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
-        hasill.Text = ""
-        hasill.Text = Val(a.Text) * Val(t.Text)
+        Keliling.Text = ""
+        Keliling.Text = Val(Alas.Text) + Val(Tinggi.Text) + Val(Sisimiring.Text)
     End Sub
 End Class

@@ -24,3 +24,7 @@ C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\Proje
 C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.xml
 C:\Users\Naili\Documents\nenelunyu\TUGAS\ProjectUTS1\ProjectUTS1\obj\Debug\ProjectUTS1.pdb
 C:\Users\ASUS\Documents\GitHub\ProjectUTS1\obj\Debug\ProjectUTS1.Form_Persegi_Panjang.resources
+C:\Users\ASUS\Documents\GitHub\ProjectUTS1\obj\Debug\ProjectUTS1.Form_Lingkaran.resources
+C:\Users\ASUS\Documents\GitHub\ProjectUTS1\obj\Debug\ProjectUTS1.Form_segitiga_sembarang.resources
+C:\Users\ASUS\Documents\GitHub\ProjectUTS1\obj\Debug\ProjectUTS1.Form_segitiga_siku_siku.resources
+C:\Users\ASUS\Documents\GitHub\ProjectUTS1\obj\Debug\ProjectUTS1.Form_Jajargenjang.resources
