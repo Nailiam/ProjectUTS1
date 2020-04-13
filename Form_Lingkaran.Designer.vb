@@ -34,7 +34,7 @@ Partial Class Form_Lingkaran
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(26, 19)
+        Me.Label1.Location = New System.Drawing.Point(122, 21)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(54, 13)
         Me.Label1.TabIndex = 0
@@ -43,7 +43,7 @@ Partial Class Form_Lingkaran
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(57, 62)
+        Me.Label2.Location = New System.Drawing.Point(81, 62)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(39, 13)
         Me.Label2.TabIndex = 1
@@ -51,28 +51,28 @@ Partial Class Form_Lingkaran
         '
         'r
         '
-        Me.r.Location = New System.Drawing.Point(118, 55)
+        Me.r.Location = New System.Drawing.Point(149, 59)
         Me.r.Name = "r"
-        Me.r.Size = New System.Drawing.Size(82, 20)
+        Me.r.Size = New System.Drawing.Size(98, 20)
         Me.r.TabIndex = 2
         '
         'hasilk
         '
-        Me.hasilk.Location = New System.Drawing.Point(154, 148)
+        Me.hasilk.Location = New System.Drawing.Point(149, 99)
         Me.hasilk.Name = "hasilk"
-        Me.hasilk.Size = New System.Drawing.Size(93, 20)
+        Me.hasilk.Size = New System.Drawing.Size(98, 20)
         Me.hasilk.TabIndex = 3
         '
         'hasill
         '
-        Me.hasill.Location = New System.Drawing.Point(154, 202)
+        Me.hasill.Location = New System.Drawing.Point(149, 141)
         Me.hasill.Name = "hasill"
-        Me.hasill.Size = New System.Drawing.Size(93, 20)
+        Me.hasill.Size = New System.Drawing.Size(98, 20)
         Me.hasill.TabIndex = 4
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(39, 141)
+        Me.Button1.Location = New System.Drawing.Point(49, 92)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(94, 32)
         Me.Button1.TabIndex = 5
@@ -81,7 +81,7 @@ Partial Class Form_Lingkaran
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(39, 190)
+        Me.Button2.Location = New System.Drawing.Point(49, 134)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(94, 32)
         Me.Button2.TabIndex = 6
@@ -92,7 +92,7 @@ Partial Class Form_Lingkaran
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(312, 304)
+        Me.ClientSize = New System.Drawing.Size(297, 203)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.hasill)

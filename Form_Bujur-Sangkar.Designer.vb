@@ -36,7 +36,7 @@ Partial Class Form_Bujur_Sangkar
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(35, 221)
+        Me.Button1.Location = New System.Drawing.Point(16, 204)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(87, 29)
         Me.Button1.TabIndex = 0
@@ -45,7 +45,7 @@ Partial Class Form_Bujur_Sangkar
         '
         'Button2
         '
-        Me.Button2.Location = New System.Drawing.Point(174, 221)
+        Me.Button2.Location = New System.Drawing.Point(135, 204)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(87, 29)
         Me.Button2.TabIndex = 1
@@ -55,7 +55,7 @@ Partial Class Form_Bujur_Sangkar
         'Label1
         '
         Me.Label1.AutoSize = True
-        Me.Label1.Location = New System.Drawing.Point(29, 45)
+        Me.Label1.Location = New System.Drawing.Point(39, 48)
         Me.Label1.Name = "Label1"
         Me.Label1.Size = New System.Drawing.Size(23, 13)
         Me.Label1.TabIndex = 2
@@ -64,7 +64,7 @@ Partial Class Form_Bujur_Sangkar
         'Label2
         '
         Me.Label2.AutoSize = True
-        Me.Label2.Location = New System.Drawing.Point(29, 94)
+        Me.Label2.Location = New System.Drawing.Point(39, 94)
         Me.Label2.Name = "Label2"
         Me.Label2.Size = New System.Drawing.Size(30, 13)
         Me.Label2.TabIndex = 3
@@ -73,7 +73,7 @@ Partial Class Form_Bujur_Sangkar
         'Label3
         '
         Me.Label3.AutoSize = True
-        Me.Label3.Location = New System.Drawing.Point(29, 144)
+        Me.Label3.Location = New System.Drawing.Point(39, 144)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(40, 13)
         Me.Label3.TabIndex = 4
@@ -81,21 +81,21 @@ Partial Class Form_Bujur_Sangkar
         '
         'TextBox1
         '
-        Me.TextBox1.Location = New System.Drawing.Point(166, 42)
+        Me.TextBox1.Location = New System.Drawing.Point(114, 45)
         Me.TextBox1.Name = "TextBox1"
         Me.TextBox1.Size = New System.Drawing.Size(94, 20)
         Me.TextBox1.TabIndex = 5
         '
         'TextBox2
         '
-        Me.TextBox2.Location = New System.Drawing.Point(166, 91)
+        Me.TextBox2.Location = New System.Drawing.Point(114, 94)
         Me.TextBox2.Name = "TextBox2"
         Me.TextBox2.Size = New System.Drawing.Size(94, 20)
         Me.TextBox2.TabIndex = 6
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(166, 141)
+        Me.TextBox3.Location = New System.Drawing.Point(114, 144)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(94, 20)
         Me.TextBox3.TabIndex = 7
@@ -112,7 +112,7 @@ Partial Class Form_Bujur_Sangkar
         Me.GroupBox1.Controls.Add(Me.Button1)
         Me.GroupBox1.Location = New System.Drawing.Point(28, 20)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(299, 280)
+        Me.GroupBox1.Size = New System.Drawing.Size(241, 280)
         Me.GroupBox1.TabIndex = 8
         Me.GroupBox1.TabStop = False
         Me.GroupBox1.Text = "Luas dan keliling bujur Sangkar"
@@ -121,7 +121,7 @@ Partial Class Form_Bujur_Sangkar
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(360, 311)
+        Me.ClientSize = New System.Drawing.Size(302, 311)
         Me.Controls.Add(Me.GroupBox1)
         Me.Name = "Form_Bujur_Sangkar"
         Me.Text = "Form_Bujur_Sangkar"
