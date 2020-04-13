@@ -4,7 +4,7 @@
         Luas.Text = Val(Panjang.Text) * Val(Lebar.Text)
     End Sub
 
-    Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
+    Private Sub Button2_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Button2.Click
         Keliling.Text = ""
         Keliling.Text = 2 * Val(Panjang.Text) + 2 * Val(Lebar.Text)
     End Sub
